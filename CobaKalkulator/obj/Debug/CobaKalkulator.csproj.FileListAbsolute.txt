@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\CobaKalkulator\bin\Debug\CobaKalkulator.exe.config
+C:\Users\PC\source\repos\CobaKalkulator\bin\Debug\CobaKalkulator.exe
+C:\Users\PC\source\repos\CobaKalkulator\bin\Debug\CobaKalkulator.pdb
+C:\Users\PC\source\repos\CobaKalkulator\obj\Debug\CobaKalkulator.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\CobaKalkulator\obj\Debug\CobaKalkulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\CobaKalkulator\obj\Debug\CobaKalkulator.Form1.resources
+C:\Users\PC\source\repos\CobaKalkulator\obj\Debug\CobaKalkulator.Properties.Resources.resources
+C:\Users\PC\source\repos\CobaKalkulator\obj\Debug\CobaKalkulator.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\CobaKalkulator\obj\Debug\CobaKalkulator.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CobaKalkulator\obj\Debug\CobaKalkulator.exe
+C:\Users\PC\source\repos\CobaKalkulator\obj\Debug\CobaKalkulator.pdb
